@@ -22,7 +22,8 @@
 }
 
 @media (max-width:768px) {
-    .matrix-info { text-align: center;
+    .matrix-info { 
+        text-align: center;
     }
 }
 
@@ -47,11 +48,13 @@ ul {
     padding: 0px;
 }
 
-li, h3 {
+li, 
+h3 {
     list-style: none;
 }
 
-input,button{
+input,
+button{
     outline: none;
 }
 
